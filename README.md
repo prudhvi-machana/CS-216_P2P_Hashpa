@@ -91,7 +91,7 @@ This project is a *Peer-to-Peer (P2P) Chat Application* implemented using Python
    
 6. *Query connected peers:*
    
-   🔗 Active Peers:
+   Active Peers:
    Hashpa → 127.0.0.1:8080
    
 

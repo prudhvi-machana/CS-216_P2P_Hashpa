@@ -50,8 +50,8 @@ This project is a *Peer-to-Peer (P2P) Chat Application* implemented using Python
 1. Clone this repository:
 
    bash
-   git clone https://github.com/yourusername/your_repository_name.git
-   cd your_repository_name
+   (https://github.com/prudhvi-machana/CS-216_P2P_Hashpa.git)
+   cd CS-216_P2P_Hashpa.git
    
 
 2. Run the script:
